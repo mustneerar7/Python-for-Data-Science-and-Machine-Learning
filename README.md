@@ -4,6 +4,6 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 ## Solved Exercises
 
 **Python for Data Analysis - NumPy**
-`main ` NumpyExercise
+`main` NumpyExercise
 
 
