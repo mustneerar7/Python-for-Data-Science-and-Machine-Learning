@@ -6,4 +6,5 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 ### Python for Data Analysis - NumPy
 `main` NumpyExercise
 
-
+### Python for Data Analysis - Pandas
+`main` PandasExercise
