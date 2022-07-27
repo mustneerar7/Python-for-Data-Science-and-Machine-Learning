@@ -8,3 +8,5 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 - `main` NumpyExercise
 
 - `main` PandasExercise
+
+- `main` MatplotlibExercise
