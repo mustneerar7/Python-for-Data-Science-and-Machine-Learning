@@ -4,9 +4,9 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 ## Solved Exercises
 
 ### Python for Data Analysis 
-
 - `main` NumpyExercise
-
 - `main` PandasExercise
-
+### Data Visualization
 - `main` MatplotlibExercise
+### Machine Learning
+- `main` LinerRegressionProject
