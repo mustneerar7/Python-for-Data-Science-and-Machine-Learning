@@ -10,3 +10,4 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 - `main` MatplotlibExercise
 ### Machine Learning
 - `main` LinerRegressionProject
+- `main` KNearestNeighboursProject
