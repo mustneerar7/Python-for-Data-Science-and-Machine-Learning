@@ -12,3 +12,5 @@ Selected Topics from Udemy - Python for Data Science and Machine Learning Bootca
 - `main` LinerRegressionProject
 - `main` KNearestNeighboursProject
 - `main` SVMProject
+### Deep Learning
+- `main` ArtificialNeuralNetwork
